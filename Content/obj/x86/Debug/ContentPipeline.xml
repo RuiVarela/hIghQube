@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>FieldShader.fx</Source>
+      <Name>FieldShader</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Desktop\Xna\hIghQube\bin\x86\Debug\Content\FieldShader.xnb</Output>
+      <Time>2008-03-18T10:33:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>CubeLevel.fx</Source>
+      <Name>CubeLevel</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Desktop\Xna\hIghQube\bin\x86\Debug\Content\CubeLevel.xnb</Output>
+      <Time>2008-03-18T14:46:22+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Smokin.spritefont</Source>
+      <Name>Smokin</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Desktop\Xna\hIghQube\bin\x86\Debug\Content\Smokin.xnb</Output>
+      <Time>2008-03-18T14:55:34+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>D:\Desktop\Xna\hIghQube\Content\</RootDirectory>
+      <LoggerRootDirectory>D:\Desktop\Xna\hIghQube\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Desktop\Xna\hIghQube\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\Desktop\Xna\hIghQube\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2007-11-28T13:08:00+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2007-11-28T13:08:42+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2007-11-28T13:08:30+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v2.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2007-11-28T13:07:44+00:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\2.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-03-17T20:08:30.5515325+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
