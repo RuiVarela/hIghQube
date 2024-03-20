@@ -1,0 +1,340 @@
+·--------------------------------------------------------------------·
+| File: kurushi.txt         Date: 02 / 02 / 2000     Version: 1.5.1  |
+·--------------------------------------------------------------------·
+                            __      ________
+                           / /     / ____  /
+                          / /     / /   / /
+                         / /     / /   / /
+                        / / __  / /___/ /  __
+                       /_/ /_/ /______  \ /_/
+                                      \__\
+
+                  I N T E L L I G E N T   Q U B E
+
+
+                               A.K.A
+         _    _
+        / \  / \
+        | |  | |  _   _   _____   _   _   _____   _   _   _
+        | |_/ /  / \ / \ /  _  \ / \ / \ /  ___| / \ / \ / \
+        |  _ <   | | | | | | \_/ | | | | | |___  | |_| | | |
+        | | \ \  | | | | | |     | | | | \___  \ |  _  | | |
+        | |  | | | |_| | | |     | |_| |  ___| | | | | | | |
+        \_/  \_/ \_____/ \_/     \_____/ |_____/ \_/ \_/ \_/
+
+·--------------------------------------------------------------------·
+| FILE INFORMATION                                                   |
+·--------------------------------------------------------------------·
+
+    Version:     1.5.1
+    Date:        02/02/00
+    Email:       faqs@oddco.com
+    Website:     www.oddco.com
+
+·--------------------------------------------------------------------·
+| COPYRIGHT INFORMATION - READ IT LEECHERS!!!                        |
+·--------------------------------------------------------------------·
+    This file and it's contents is not to be reproduced in any other
+form without prior consent from the author.  That includes both 
+commercialy printing and selling of this file.  This file will _only_
+be hosted on 'GameFAQs.com' and 'Oddity'.  Please do not ask 
+permission to host this FAQ on any other site.  This is because I want
+people to see the latest version and not a FAQ that is 10 versions 
+behind.  This causes great stress when people ask you questions from 
+old FAQ's that have been answered in new FAQs.
+    If you find this file on any other site than the sites below, they
+are illegaly leeched files.  Please contact me so that I can do 
+something about these lamer websites.
+
+    OFFICIAL HOST SITES:
+
+        Oddity    -  www.oddco.com      -   Official Home
+        GameFAQs  -  www.gamefaqs.com        -   Great Game FAQ Site
+
+·--------------------------------------------------------------------·
+| UPDATE INFORMATION                                                 |
+·--------------------------------------------------------------------·
+    Always you will be able to find the newest update at the Official
+Home of this FAQ.
+
+   1.5.1 - Redesigned Layout. Released 02/02/00
+   1.5.0 - Redone into .faq format. Released 03/05/99
+   1.4.0 - Added More codes and character. Released 30/03/99 
+   1.3.0 - Added more rules and other stuff. Released 10/03/99
+   1.2.0 - Just added a few things to the FAQ. Released 06/03/99
+   1.1.0 - Added some codes and changed the title to suit all known
+           version names across the world. Released 03/03/99
+   1.0.0 - First Version. Released 02/03/99
+
+·--------------------------------------------------------------------·
+| CONTENTS                                                           |
+·--------------------------------------------------------------------·
+
+                 0 ................ COPYRIGHT
+                 1 ................ UPDATES
+                 2 ................ CONTENTS
+                 3 ................ GAME CONTROLS
+                 4 ................ GAME RULES
+                 5 ................ GAME TALK
+                 6 ................ GUIDE
+                 7 ................ CODES
+                 8 ................ CONTACTING THE AUTHOR
+                 9 ................ CREDITS AND THANKYOUS
+
+/*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*\
+                            GAME CONTROLS
+                   ______                   ______
+                  |__R1__| <--- Moves ---> |__L1__|
+                   ______   Camera Angles   ______
+                  |__R2__|                 |__L2__|
+
+
+                  Movement                 .- Trigger
+                     |    Null Options     |  Advantage
+                     v      |    |         v  Cube
+                     _      v    v         _
+                   _| |_    __   __     _ |_| _
+                  |_   _|  |__| |__>   |_| _ |_|
+                    |_|                 ^ |_| <--- Mark Active
+                                        |          or Deactivate
+                            Accelerate -·          Square
+                                 Cubes
+
+/*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*\
+                             GAME RULES
+
+BASIC RULES:
+   The concept of the game is to capture the cubes. A player can mark
+a spot on the stage by pressing the 'X' button. By pressing the 'X'
+button again, the player can de-activate the mark. The game is played
+be marking the spot and then successfuly de-activating the spot.
+   How to capture a cube: First mark the spot where a cube should be
+captured. When the cube is about to land on the marked spot, press 
+the 'X' button. The marked spot is then de-activated and the cube is
+captured. Repeat this to capture all the necessary cubes. 
+   If any cubes are left to fall off the stage, the number of fallen
+cubes will be calculated on the block scale. Every time the number 
+of fallen cubes exceeds that of the block scale, the player loses 
+the last row of the stage.
+   The player must prevent the cubes from falling off the stage. When
+the player is avalanched by the cubes and falls of the stage, it's 
+GAME OVER.
+   I.Q. is measured against the players efficiency in capturing the 
+cubes, as well as the total amount of cubes captured.
+
+FORBIDDEN CUBE:
+   Not all of the cubes should be captured. The black cubes are 
+called the 'Forbidden Cubes', the player must leave these cubes 
+alone. For every forbidden cube captured, the player will lose the
+final row of the stage. Let the forbidden cubes pass by off the 
+stage. The player can accelerate the speed of the cubes by pressing
+the square button.
+
+ADVANTAGE CUBE:
+   The player can use the green cubes or the 'Advantage Cubes' to
+efficiently capture the cubes. When the player captures an advantage
+cube the spot will be marked. By pressing the triangle button, the
+player can capture the surrounding cubes, all the cubes in the marked
+area will be captured.
+   Using the 'advantage cube' the player should be able to 
+efficiently capture multiply cubes. But at the same time the player 
+must make sure that no forbidden cube is included in the marked area.
+
+/*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*\
+                              GAME TALK
+
+PERFECT:
+   If you capture all the NORMAL and ADVANTAGE CUBES and allow all
+the FORBIDDEN CUBES to drop over the edge of the stage, you will get
+a PERFECT score. One section will then be added to the stage and you
+will recieve a PERFECT BONUS. The PERFECT BONUS is calculated 
+according to the number of steps used to solve the puzzle. The ideal
+step number for each puzzle is decided by the computer and is 
+displayed in the top right-hand corner of the screen.
+   For example, if the ideal step number is 5, and if the player
+solves the puzzle in one step less than the ideal number (i.e., 4 
+steps), the bonus will be 10,000 points. If the player solves the
+puzzle in the ideal number of steps (ie., 5 steps), the bonus will be
+5,000 points. And if the player solves the puzzle in one step or more
+than the ideal number of steps (i.e., 6 steps), the bonus will be
+1,000 points.
+
+AGAIN!:
+   If a player is crushed by a CUBE, the remaining CUBES in that
+puzzle move forward quickly and drop over the edge of the stage and
+AGAIN! is displayed on the screen. This means that the same puzzle 
+will be repeated. However, if there are no CUBES left at the end of
+the stage (i.e., if the puzzle which crushed the player was the final
+puzzle), the puzzle is not repeated.
+
+GAME OVER
+   If a player falls from the stage it's GAME OVER.
+
+/*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*\
+                                GUIDE
+
+   The main thing to do in this game is not to use the correct quota 
+of moves that the game gives you, but to beat it. (It is possible 
+with abit of thought). I know that some of the puzzle can be done 
+under the move quote but there are some hard ones to that you have
+to go over the quota.
+   Now the main tip that I advise the players to do if they are not 
+doing it already, is to watch the green blocks. These are the key to 
+completing this game. If you use them and activate them in the 
+correct order then you will either get equal or under the move
+quota.
+   If you ever die and there is an active green square on the board, 
+NEVER get rid of it. It sometimes is the key to getting under the 
+quota.
+   When your playing try and note down in your head the puzzle and 
+how to solve it. This is because the game gives them back at you
+alot and if you know how to do each one then it makes your gameplay 
+faster and more efficient.
+   Below are some sample puzzles and there solutions.
+
+   Key:   [] - Normal   ## - Black   ** - Green   GG - Active Green
+
+      ---------------------------------------------------------
+
+      [][][][]  0  Okay. Activate the green block on the right and
+      **[]**[]  -  destroy it right away making the left green block
+      [][][]##  4  active (1). Let the Blocks come forward twice and
+      [][][][]     and on the second move forward detinate the 
+      ##****[]     active green block (2, 3). This should destroy
+                   the back right and left blocks, then let the 
+                   blocks move forward once and then detinate them
+                   destroying the rest of the blocks (4).
+
+      [][][][]  [][][][]
+      **[]**[]  GG  GG[]
+      [][][]##        ##
+      []      
+      ##GG      ##
+
+      ---------------------------------------------------------
+
+      [][][]##  0  Destroy the front green block (1). Run over to 
+      [][][][]  -  the Normal block in the front row and destroy 
+      [][][][]  5  that (2). Let the blocks move forward once and
+      ****[][]     then detinate the first green activating the 
+      []##**##     right green in the second row (3). Run back and
+                   destroy the left green in the second row (4). Now
+                   let the blocks move forward once then detinate
+                   the blocks destroying all the remaining Normal
+                   blocks.
+
+      [][][]##  [][][]##  [][][]##  [][][]##
+      [][][][]  [][][][]  []        []
+      [][][][]  [][][][]  []        []GG
+      ****[][]  ****GG[]  **GG      GG
+      []##GG##    ##  ##    ##  ##    ##  ##
+
+      ---------------------------------------------------------
+
+   Ok as you get though the levels they gradually get harder and 
+give you a wider set of blocks. This looks menacing but after a 
+while you will think the first three levels are boring and dread
+going back though them. But watch them and when you can use the 
+advance block function to get you out of trouble.
+   I can't stress this point enough. You have to learn from this game
+not let the game learn from you (Yeah I know that it might not be 
+able to learn from your mistakes, but it is good to always be one 
+step infront of a AI, it really helps).
+   There will be more examples and hints as I get to them, as I have
+not played this game in a long time and I have to get back into how
+to play it before I can actually give you some good advice.
+
+/*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*'._.'*\
+                                CODES
+ACCESS STAGE 5
+   To access Stage 5 of level 1 go to 'OPTIONS', then into 'GAME 
+   MODE' and set the game mode to 1. Exit this and go to the 'RULE
+   SECTION' whilst holding down R1 + R2 + L1 + L2 (don't let go) and
+   select 'DEMO 1. The game will load and you will be able to play on
+   Stage 5 of level 1. 
+      ((Code by Unknown))
+
+GAMEPLAY HOLES 
+   These four tricks work on the Playstation Demo, I haven't tried 
+   them on the full version.
+      1. If the unfired trigger is left in an area that is destroyed 
+         by a green-cube blast, the cube above the trigger is
+         protected. This will effectively sheild black cubes from 
+         green blasts.
+      2. There is enough time in one cube flip to destroy multiple
+         squares, and all the blasts will count.
+      3. You can walk between cube rows while they're flipping, and
+         put triggers down. This is exceedingly dangerous, but highly
+         effective.
+      4. About half the time when you hold the speed-up button while
+         the last cubes are falling on red blasts, the counter will 
+         not go over and the blocks will be destroyed without costing
+         you a move. 
+      ((Code by Chris Canfield ccanfiel@uci.edu))
+
+HIDDEN PLAYERS
+   1. CYNTHIA - To play as Cynthia you must first clear the game's 
+      Final Stage and save it to a memory card. Cynthia is fast than
+      Eliot and thus easier to win with. 
+         ((Code by FF7.SephK@aol.com))
+   2. SPIKE - To play as Spike, beat the game with Cynthia and have
+      an IQ over 400. 
+         ((Code by Greg Steele HolyMakrel@aol.com))
+   3. ELIOT - Remain in survival mode for 10 minutes.
+   4. CHERRY - Remain in survival mode with Eliot for 15 minutes.
+   5. APRIL - Beat the game with an IQ score of over 100.
+   6. DICKSON - Finish with April with an IQ score of over 150.
+   7. MORGAN - Finish with Dickson with an IQ score of over 200.
+   8. KIMTI - Beat the game with Morgan with an IQ score of over 300.
+   9. ATLAS - Beat the game with Morgan with an IQ score of over 400.
+
+MAKE YOUR OWN PUZZLES 
+   First, clear the Final Stage and save it to memory card. (If you
+   do not have a card, you will lose this when you turn the system
+   off.) Now go into Options and select Game Mode, Choose SYSTEM and
+   press RIGHT to turn Original Mode on. Exit Options and select the
+   1P game. You can now make your own puzzles!
+      NOTE: You cannot view the rules, get an IQ, or play a 2P game
+      in Original Mode, but you can always switch it back to Normal
+      mode by pressing LEFT at the game mode option. 
+      ((Code by FF7.SephK@aol.com))
+
+GAMESHARK CODES
+   Two Rows of Blocks Move Forward at a Time    8006C4B4 0002 
+   Takes Zero Moves to Get rid of Blocks*       8006C804 0000 
+
+   * This code gives you a higher score. This keeps the fraction
+     thing in the top right hand corner at zero, which makes you a
+     genius when you get rid of the blocks.
+
+·--------------------------------------------------------------------·
+| CONTACTING THE AUTHOR                                              |
+·--------------------------------------------------------------------·
+
+    Any type of feedback (other than abusive) is welcomed.  Although I
+can't promise that I will reply to all email I get, but I will try to.
+    Any email that asks for specific help will not be answered.  All
+that I know about the game I have put here.
+    If you are writing to me please put in the topic in capitol 
+letters '<NAME OF FAQ> - FAQ REPLY:' then what ever topic you want
+after it. Remember where it has '<NAME OF FAQ>' put the name there 
+instead of that without the <>'s.  This will help me moderate what
+type of email it is.
+    You can contact me at this address: - faqs@oddco.com
+
+·--------------------------------------------------------------------·
+| CREDITS AND THANK YOU'S                                            |
+·--------------------------------------------------------------------·
+
+    ARGöNAUT (a.k.a Scott A. Moss) for writing this FAQ.
+    CJAYC for GameFAQs one if not the best Game site on the net.
+
+    CODES USED
+      Chris Canfield - (ccanfiel@uci.edu) Contacted
+      Greg Steele - (HolyMakrel@aol.com) Can't be contacted....
+      ? - (FF7.SephK@aol.com) Can't be contacted....
+
+·--------------------------------------------------------------------·
+| THIS FAQ WAS MADE USING - FAQ3DIT - http://www.oddco.com           |
+·--------------------------------------------------------------------·
+                                          COPYRIGHT ARGöNAUT 1999-2000

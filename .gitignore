@@ -1,0 +1,14 @@
+.DS_Store
+build
+build_ios
+android/*.iml
+android/.gradle
+android/local.properties
+android/.DS_Store
+android/build
+android/captures
+android/.externalNativeBuild
+android/.cxx
+android/local.properties
+android/.idea
+android/app/.cxx

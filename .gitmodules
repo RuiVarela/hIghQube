@@ -1,0 +1,24 @@
+[submodule "vendor/sokol"]
+	path = vendor/sokol
+	url = git@github.com:floooh/sokol.git
+	shallow = true
+[submodule "vendor/sokol-tools-bin"]
+	path = vendor/sokol-tools-bin
+	url = git@github.com:floooh/sokol-tools-bin.git
+	shallow = true
+[submodule "vendor/imgui"]
+	path = vendor/imgui
+	url = git@github.com:ocornut/imgui.git
+	shallow = true
+[submodule "vendor/HandmadeMath"]
+	path = vendor/HandmadeMath
+	url = git@github.com:HandmadeMath/HandmadeMath.git
+	shallow = true
+[submodule "vendor/stb"]
+	path = vendor/stb
+	url = git@github.com:nothings/stb.git
+	shallow = true
+[submodule "vendor/fontstash"]
+	path = vendor/fontstash
+	url = git@github.com:memononen/fontstash.git
+	shallow = true
